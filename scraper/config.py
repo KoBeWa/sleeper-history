@@ -1,9 +1,9 @@
 # === Konfiguration ===
 # Deine aktuelle Sleeper League ID (die vom aktuellen Jahr).
-LEAGUE_ID = "123456789012345678"  # <- HIER EINTRAGEN!
+LEAGUE_ID = "859153748403040256"  # <- HIER EINTRAGEN!
 
 # Wie viele Wochen pro Saison (Regular Season + ggf. erste Playoff-Runden für volle Wochen-Exports)
-MAX_WEEKS = 18  # Sleeper hat idR bis 18 (inkl. BYE-Struktur moderner Saisons)
+MAX_WEEKS = 16  # Sleeper hat idR bis 18 (inkl. BYE-Struktur moderner Saisons)
 
 # Ausgabeverzeichnis (CSV-Dateien landen hier).
 OUTPUT_DIR = "output"
