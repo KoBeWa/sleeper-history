@@ -1,5 +1,9 @@
 name: Scrape Sleeper History
 
+# ⬅️ NEU: Schreibrechte für Push
+permissions:
+  contents: write
+  
 on:
   workflow_dispatch:
   schedule:
